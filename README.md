@@ -8,4 +8,4 @@ Co-founder of [MetaTravelers](https://github.com/MetaTravelers): took an origina
 - More open-source work under the [MetaTravelers org](https://github.com/MetaTravelers): smart contracts, a 3D asset explorer, and more.
 - Site / proof-of-work: **[trippyogi.com](https://trippyogi.com)**
 
-TypeScript · React · Next.js · Python · Solidity · agent systems
+TypeScript · React · Next.js · Python · Solidity · Agent Systems
