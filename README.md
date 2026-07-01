@@ -1,6 +1,6 @@
 ### Jeremy McKeehen
 
-Technical founder and full-stack engineer. I ship across the whole stack, from smart contracts and AI agent systems to physical product.
+I build across the whole stack, from smart contracts and AI agent systems to action figures on shelves in 22 countries.
 
 Co-founder of [MetaTravelers](https://github.com/MetaTravelers): took an original sci-fi IP from a sold-out digital launch to 10,000+ units shipped in 22 countries, now rebuilding it AI-first.
 
