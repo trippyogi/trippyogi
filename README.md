@@ -12,11 +12,6 @@ Co-founder of [MetaTravelers](https://shopmetatravelers.com): took an original s
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
 ![Agent Systems](https://img.shields.io/badge/Agent_Systems-F59E0B)
 
-[![X](https://img.shields.io/badge/@trippyogi-000000?logo=x&logoColor=white)](https://x.com/trippyogi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/jmckeehen)
-[![Site](https://img.shields.io/badge/trippyogi.com-F59E0B)](https://trippyogi.com)
-[![npm](https://img.shields.io/badge/npm-gitworthy-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/gitworthy)
-[![Email](https://img.shields.io/badge/peace@trippyogi.com-333333)](mailto:peace@trippyogi.com)
 
 ## Tools
 
@@ -36,3 +31,11 @@ Agent-operations tooling, extracted from running a real company on agents.
 - Shipping agent-ops tools in public; each one exists because my own operation needed it first
 - Writing about what breaks running agents in production: [x.com/trippyogi](https://x.com/trippyogi)
 - Full receipts, case files, and operating principles: [trippyogi.com](https://trippyogi.com)
+
+## Connect
+
+[![X](https://img.shields.io/badge/@trippyogi-000000?logo=x&logoColor=white)](https://x.com/trippyogi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/jmckeehen)
+[![Site](https://img.shields.io/badge/trippyogi.com-F59E0B)](https://trippyogi.com)
+[![npm](https://img.shields.io/badge/npm-gitworthy-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/gitworthy)
+[![Email](https://img.shields.io/badge/peace@trippyogi.com-333333)](mailto:peace@trippyogi.com)
