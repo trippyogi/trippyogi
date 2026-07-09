@@ -1,8 +1,7 @@
-# Jeremy McKeehen
+# Hi, I'm Jeremy 👋
 
-I build across the whole stack, from smart contracts and AI agent systems to action figures on shelves in 22 countries.
+smart contracts, AI agent systems, and action figures on shelves in 22 countries. Co-founder of [MetaTravelers](https://shopmetatravelers.com), now building the agent-ops tools that run it.
 
-Co-founder of [MetaTravelers](https://shopmetatravelers.com): took an original sci-fi IP from a sold-out digital launch to 10,000+ units shipped across 22 countries, now run AI-first by a two-person team.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
